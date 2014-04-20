@@ -14,4 +14,6 @@
         您还可以找到 <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
             title="MSDN ASP.NET 文档">MSDN 上有关 ASP.NET 的文档</a>。
     </p>
+    <p>在newFunction的分支上进行修改</p>
+    <asp:Button ID="btn_Modify" runat="server" Text="修改塞" OnClick="btn_ModifyClick" />
 </asp:Content>
