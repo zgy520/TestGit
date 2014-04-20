@@ -15,6 +15,6 @@
             title="MSDN ASP.NET 文档">MSDN 上有关 ASP.NET 的文档</a>。
     </p>
     <p>在newFunction的分支上进行修改</p>
-    <asp:Button ID="btn_Modify" runat="server" Text="修改塞" OnClick="btn_ModifyClick" />
-    <asp:Label ID="lblMsg" runat="server" Text="合适吧"></asp:Label>
+        <asp:Button ID="btn_Modify" run="server" Text="xiugai sai"OnClick="btn_ModifyClick" />
+        <asp:Label ID="lblMsg" runat="server" Text="合适吧"></asp:Label>
 </asp:Content>
